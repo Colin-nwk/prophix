@@ -1,0 +1,20 @@
+import profix from "../../../public/images/prophixlogo.png"
+import hero from "../../../public/images/Hero.png"
+import iphone from "../../../public/images/iphone13pro.png"
+import apple from "../../../public/images/apple.png"
+import google from "../../../public/images/googlr.png"
+import worker from "../../../public/images/workermale.png"
+import punch from "../../../public/images/punch.png"
+import tech from "../../../public/images/techpoint.png"
+import user1 from "../../../public/images/user1.png"
+import user2 from "../../../public/images/user2.png"
+import user3 from "../../../public/images/user3.png"
+import arrow from "../../../public/images/arrow-right.png"
+import facebook from "../../../public/images/facebook.png"
+import twitter from "../../../public/images/fe_twitter.png"
+import instagram from "../../../public/images/instagram.png"
+import linkedin from "../../../public/images/bi_linkedin.png"
+import youtube from "../../../public/images/youtube.png"
+
+
+export { profix, hero, iphone, apple, google, worker, punch, tech, user1, user2, user3, arrow, facebook, twitter, instagram, linkedin, youtube }
